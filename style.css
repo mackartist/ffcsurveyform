@@ -1,0 +1,20 @@
+body {
+  Background: black;
+}
+#survey{
+ text-align: center;
+  Background: white;
+  margin: 30px;
+  font-family: arial;
+}
+
+input[type=number], input[type=email], input[type=name] {
+  box-sizing: border-box;
+  border-radius: 4px;
+  resize: vertical;
+  margin: 15px
+}
+#dropdown {
+  margin: 10px;
+}
+  
